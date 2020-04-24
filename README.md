@@ -27,3 +27,4 @@ pod 'XPhoto'
 ## License
 
 XPhoto is available under the MIT license. See the LICENSE file for more info.
+自定义相册相机
